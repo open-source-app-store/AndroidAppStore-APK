@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RechargeXp App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RechargeXp App Store</string>
+    <string name="nav_header_subtitle">cc@xpcommunication.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">A-110 - 111, RADHE KISHAN VILLA COMM. CENTER, OPP. TOPAZ RESTAURANT, ISANPUR JAYMALA ROAD, ISANPUR, AHMEDABAD - 3822433 (GUJARAT)</string>
+    <string name="number">+91-9054590005, +91-9737738383</string>
+    <string name="email">cc@xpcommunication.com</string>
+    <string name="website">http://www.rechargexp.co.in/</string>
+    <string name="noapp">No Application Found in BonrixRecharge App Store</string>
+    <string name="msg">Hey, I just found this awesome app From RechargeXp App Store Power Powered By http://www.myappstore.co.in.\n</string>
+    <string name="applink">http://rechargexp.myappstore.co.in/BonrixAppStore/Raw_Details/Store/rechargexp/StoreAPK/RechargeXPAppStore.apk</string>
+
+
+
+    <string name="service_url">http://rechargexp.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://rechargexp.myappstore.co.in/BonrixAppStore/Raw_Details</string>
+
+
+</resources>

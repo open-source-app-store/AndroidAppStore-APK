@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">Bonrix Software Systems\nA-801, Samudra Complex,\nNear Klassic Gold Hotel,\nOff C.G.Road, Ahmedabad,\nGujarat, India.</string>
+    <string name="number">+91-9426045500, +91-79-26426364</string>
+    <string name="email">info@bonrix.net</string>
+    <string name="website">www.mrechargesystem.com</string>
+    <string name="noapp">No Application Found in My App Store</string>
+    <string name="applink">http://www.myappstore.co.in/BonrixAppStore/Raw_Details/myappstore.apk</string>
+    <string name="msg">Hey, I just found this awesome app From My App Store.\n</string>
+
+
+    <string name="service_url">http://easovation.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://easovation.myappstore.co.in/BonrixAppStore/Raw_Details/Store/easovation/App/</string>
+
+
+</resources>

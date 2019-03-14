@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Consisty App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Consisty App Store</string>
+    <string name="nav_header_subtitle">-</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">-</string>
+    <string name="number">-</string>
+    <string name="email">-</string>
+    <string name="website">-</string>
+    <string name="noapp">No Application Found in Consisty App Store</string>
+    <string name="msg">Hey, I just found this awesome app From Consisty App Store.\n</string>
+    <string name="applink">http://bonrixcrm.myappstore.co.in/BonrixAppStore/Raw_Details/Store/consisty/StoreAPK/ConsistyAppStore.apk</string>
+
+
+    <string name="service_url">http://consisty.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://consisty.myappstore.co.in/BonrixAppStore/Raw_Details</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MultiLink App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MultiLink App Store</string>
+    <string name="nav_header_subtitle">mmd@multilinkworld.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">803,804,805 Quantum Tower, ChincholiRoad,Bunder Sv Malad West(W),Mumbai-400064</string>
+    <string name="number">+91-8369721546, +91-8369721546, +91-7738129849</string>
+    <string name="email">mmd@multilinkworld.com</string>
+    <string name="website">www.multilinkrecharge.com</string>
+    <string name="noapp">No Application Found in BonrixRecharge App Store</string>
+    <string name="msg">Hey, I just found this awesome app From MultiLink App Store Power Powered By http://www.myappstore.co.in.\n</string>
+    <string name="applink">http://bonrixcrm.myappstore.co.in/BonrixAppStore/Raw_Details/Store/multilink/StoreAPK/BonrixRechargeAppStore.apk</string>
+
+
+
+    <string name="service_url">http://multilink.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://multilink.myappstore.co.in/BonrixAppStore/Raw_Details</string>
+
+
+</resources>

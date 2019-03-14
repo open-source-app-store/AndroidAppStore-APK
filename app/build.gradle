@@ -1,0 +1,100 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.mobile.bonrix.bonrixappstore"
+        minSdkVersion 15
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        flavorDimensions "appstore"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors {
+        myappstore {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.myappstore"
+            versionName "1.0-myappstore"
+        }
+        consisty {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.consistystore"
+            versionName "1.0-consistystore"
+        }
+        open {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.openstore"
+            versionName "1.0-openstore"
+        }
+        oyepe {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.oyepestore"
+            versionName "1.0-oyepestore"
+        }
+        bonrixrecharge {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.bonrixrechargeappstore"
+            versionName "1.0-bonrixrechargeappstore"
+        }
+        bonrixcrm {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.bonrixcrmappstore"
+            versionName "1.0-bonrixcrmappstore"
+        }
+        palak {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.palakstore"
+            versionName "1.0-palak"
+        }
+        rechargeblast {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.rechargeblaststore"
+            versionName "1.0-rechargeblast"
+        }
+        rechargexp {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.rechargexptstore"
+            versionName "1.0-rechargeblast"
+        }
+        bonrix {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.bonrixstore"
+            versionName "1.0-bonrixstore"
+        }
+
+        multilink {
+            dimension "appstore"
+            applicationId "com.mobile.bonrix.multilinkstore"
+            versionName "1.0-multilinkstore"
+        }
+
+
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.0-beta01'
+    implementation 'com.google.android.material:material:1.0.0-beta01'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.facebook.fresco:fresco:1.11.0'
+    implementation 'com.mani:ThinDownloadManager:1.3.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.daimajia.numberprogressbar:library:1.4@aar'
+    implementation 'com.squareup.retrofit2:retrofit:2.0.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.0.0'
+    implementation 'com.github.ybq:Android-SpinKit:1.2.0'
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.0-alpha4'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'
+}

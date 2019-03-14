@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RechargeBlast App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RechargeBlast App Store</string>
+    <string name="nav_header_subtitle">sales@rechargeblast.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">Simariya Jasidih Deoghar (JHARKHAND)</string>
+    <string name="number">+91-8340412096</string>
+    <string name="email">sales@rechargeblast.com</string>
+    <string name="website">http://www.rechargeblast.com/</string>
+    <string name="noapp">No Application Found in RechargeBlast App Store</string>
+    <string name="msg">Hey, I just found this awesome app From RechargeBlast App Store Power Powered By http://www.myappstore.co.in.\n</string>
+    <string name="applink">http://rechargeblast.myappstore.co.in/BonrixAppStore/Raw_Details/Store/rechargeblast/StoreAPK/RechargeBlastAppStore.apk</string>
+
+
+
+    <string name="service_url">http://rechargeblast.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://rechargeblast.myappstore.co.in/BonrixAppStore/Raw_Details</string>
+
+
+</resources>

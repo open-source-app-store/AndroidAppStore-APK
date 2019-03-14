@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Oyepe App Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Oyepe App Store</string>
+    <string name="nav_header_subtitle">salesinfo@oyepay.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address">68, Agarwal trade Center,
+B -Wing ,6th Floor,Plot no 62,
+Secoter -11 CBD Belapur,
+Navi Mumbai-400614</string>
+    <string name="number">+91-9221455555 , +91-7041445678</string>
+    <string name="email">salesinfo@oyepay.in</string>
+    <string name="website">http://www.oyepe.in/</string>
+    <string name="noapp">No Application Found in Oyepe App Store</string>
+    <string name="msg">Hey, I just found this awesome app From Oyepe App Store Power Powered By http://www.myappstore.co.in.\n</string>
+    <string name="applink">http://oyepe.myappstore.co.in/BonrixAppStore/Raw_Details/Store/oyepe/StoreAPK/BonrixRechargeAppStore.apk</string>
+
+
+
+    <string name="service_url">http://oyepe.myappstore.co.in/BonrixAppStore/Services/Service.asmx/</string>
+    <string name="Image_url">http://oyepe.myappstore.co.in/BonrixAppStore/Raw_Details</string>
+
+
+</resources>
